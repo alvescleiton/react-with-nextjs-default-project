@@ -1,6 +1,7 @@
 {
   "name": "react-with-nextjs-default-project",
   "version": "0.1.0",
+  "author": "Cleiton Alves <dev.cleitonalves@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "next dev",
